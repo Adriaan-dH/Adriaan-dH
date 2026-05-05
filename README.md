@@ -1,7 +1,7 @@
 # Hi, I'm Adriaan den Haan
 
 **BSc Honours in Computer Science candidate at Stellenbosch University**  
-I build practical full-stack, systems, AI/data, and networking projects, with a strong interest in infrastructure, developer tooling, and useful AI-assisted software.
+I build practical full-stack, systems, AI/data, and networking projects, with a strong interest in infrastructure, developer tooling, and useful software.
 
 <p>
   <a href="mailto:adenhaan1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adenhaan1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
